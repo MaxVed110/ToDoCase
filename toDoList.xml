@@ -1,51 +1,50 @@
-<?xml version="1.0" encoding="Windows-1251" standalone="no"?>
 <toDoList>
     <Case1>
         <Name_Case>Дело 1</Name_Case>
         <Priority>1</Priority>
-        <Add>08-09-2022 в 17:39</Add>
+        <Add>08-09-2022 в 17:49</Add>
         <Deadline>20.03</Deadline>
         <Author>A</Author>
     </Case1>
     <Case2>
         <Name_Case>Дело 1</Name_Case>
         <Priority>1</Priority>
-        <Add>08-09-2022 в 17:39</Add>
+        <Add>08-09-2022 в 17:49</Add>
         <Deadline>20.03</Deadline>
         <Author>A</Author>
     </Case2>
     <Case3>
         <Name_Case>Дело 1</Name_Case>
         <Priority>1</Priority>
-        <Add>08-09-2022 в 17:39</Add>
+        <Add>08-09-2022 в 17:49</Add>
         <Deadline>20.03</Deadline>
         <Author>B</Author>
     </Case3>
     <Case4>
         <Name_Case>dw</Name_Case>
         <Priority>1</Priority>
-        <Add>08-09-2022 в 17:39</Add>
+        <Add>08-09-2022 в 17:49</Add>
         <Deadline>20.03</Deadline>
         <Author>A</Author>
     </Case4>
     <Case5>
         <Name_Case>Дело 1</Name_Case>
         <Priority>2</Priority>
-        <Add>08-09-2022 в 17:39</Add>
+        <Add>08-09-2022 в 17:49</Add>
         <Deadline>21.03</Deadline>
         <Author>A</Author>
     </Case5>
     <Case6>
         <Name_Case>Дело 1</Name_Case>
         <Priority>2</Priority>
-        <Add>08-09-2022 в 17:39</Add>
+        <Add>08-09-2022 в 17:49</Add>
         <Deadline>23.03</Deadline>
         <Author>B</Author>
     </Case6>
     <Case7>
         <Name_Case>dw</Name_Case>
         <Priority>3</Priority>
-        <Add>08-09-2022 в 17:39</Add>
+        <Add>08-09-2022 в 17:49</Add>
         <Deadline>22.03</Deadline>
         <Author>A</Author>
     </Case7>
