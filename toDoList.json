@@ -1,0 +1,53 @@
+{
+  "Case": [
+    {
+      "Name case": "�\u201Dело 1",
+      "Author": "A",
+      "Date add": "08-09-2022 в 17:45",
+      "Priority": 1,
+      "Deadline": "20.03"
+    },
+    {
+      "Name case": "�\u201Dело 1",
+      "Author": "A",
+      "Date add": "08-09-2022 в 17:45",
+      "Priority": 1,
+      "Deadline": "20.03"
+    },
+    {
+      "Name case": "�\u201Dело 1",
+      "Author": "B",
+      "Date add": "08-09-2022 в 17:45",
+      "Priority": 1,
+      "Deadline": "20.03"
+    },
+    {
+      "Name case": "dw",
+      "Author": "A",
+      "Date add": "08-09-2022 в 17:45",
+      "Priority": 1,
+      "Deadline": "20.03"
+    },
+    {
+      "Name case": "�\u201Dело 1",
+      "Author": "A",
+      "Date add": "08-09-2022 в 17:45",
+      "Priority": 2,
+      "Deadline": "21.03"
+    },
+    {
+      "Name case": "�\u201Dело 1",
+      "Author": "B",
+      "Date add": "08-09-2022 в 17:45",
+      "Priority": 2,
+      "Deadline": "23.03"
+    },
+    {
+      "Name case": "dw",
+      "Author": "A",
+      "Date add": "08-09-2022 в 17:45",
+      "Priority": 3,
+      "Deadline": "22.03"
+    }
+  ]
+}
